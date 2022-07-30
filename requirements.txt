@@ -1,0 +1,2 @@
+gunicorn
+streamlit==1.10.0
