@@ -2,3 +2,5 @@ gunicorn
 streamlit==1.10.0
 streamlit_webrtc
 opencv-python-headless
+mediapipe 0.8.10.1
+
